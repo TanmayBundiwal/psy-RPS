@@ -5,7 +5,7 @@
 
 
 import random as r
-import numpy as np
+#import numpy as np
 r.seed()
 
 
@@ -56,7 +56,7 @@ def playfirst():
     if(res==1): Wins +=1
     global last_state
     last_state = [res,pc_move[0],int(user_move)]
-    print(last_state)
+    #print(last_state)
 
 
 # In[24]:
