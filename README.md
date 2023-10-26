@@ -1,3 +1,5 @@
+Update 2023: This is kept public for sentimental purposes, not for showcasing my programming skills :)
+
 # psy-RPS
 A collection of 2 very simple terminal based python games. 
 
